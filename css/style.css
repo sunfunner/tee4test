@@ -374,18 +374,18 @@ ul.dropdown-menu li {
 }
 
 .fixed-nav {
-  background: #ff1616;
+  background: #cb0000;
 }
 
 .navbar-toggler {
-  /*background-color: #ff1616;
-  border: 1px solid #ff1616;*/
+  /*background-color: #cb0000;
+  border: 1px solid #cb0000;*/
   border-radius: 0px;
   padding: 5px 10px;
 }
 
 .navbar-collapse.collapse.show {
-  background: #ff1616;
+  background: #cb0000;
 }
 
 .slider {
